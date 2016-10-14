@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./AES 8 1 > AES_128.dat
+./AES 8 2 > AES_256.dat

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+./RSA 7 1 > RSA_1024.dat
+
+echo "TERMINOU 1024"
+
+./RSA 7 2 > RSA_2048.dat
+
+echo "TERMINOU 2048"
+
